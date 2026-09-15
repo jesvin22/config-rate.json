@@ -1,11 +1,6 @@
 {
   "cny_idr": 2720,
   "china_shipping_per_kg": 75000,
-  "updated_at": "2026-09-08"
-}
-{
-  "cny_idr": 2720,
-  "china_shipping_per_kg": 75000,
   "updated_at": "2026-09-15",
   "fee_threshold": 1000000,
   "fee_pct_below": 5,
