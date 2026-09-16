@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-09-15",
+  "sections": [
+    {
+      "title": "1. Tentang Layanan",
+      "body": "TitipGo adalah layanan jasa titip beli (personal shopper) yang membantu pelanggan membeli produk dari marketplace China (1688, Taobao, Tmall) untuk dikirim ke Indonesia. TitipGo bertindak sebagai perantara pembelian dan pengiriman, bukan sebagai penjual/produsen produk itu sendiri."
+    },
+    {
+      "title": "2. Sifat Estimasi Harga",
+      "body": "Harga yang ditampilkan di awal adalah **estimasi**, bukan harga final. Harga diambil otomatis dari halaman produk marketplace China dan bisa berubah sewaktu-waktu karena promo, kupon, subsidi platform, atau perbedaan harga antar varian.\n\nSistem pengambilan harga TitipGo dibuat seakurat mungkin, namun tidak dapat menjamin 100% kecocokan dengan harga yang benar-benar berlaku saat transaksi diproses. Harga final akan dikonfirmasi ulang ke pelanggan sebelum pembayaran diproses. Jika ada selisih, pelanggan berhak menyetujui atau membatalkan pesanan sebelum pembelian dilakukan."
+    },
+    {
+      "title": "3. Biaya Jasa & Ongkos Kirim",
+      "body": "Biaya jasa dan tarif ongkir mengikuti skema yang berlaku saat transaksi (ditampilkan saat checkout), dihitung berdasarkan berat aktual barang dan kota tujuan."
+    },
+    {
+      "title": "4. Pembatalan & Refund",
+      "body": "Pesanan **tidak dapat dibatalkan** apabila pembeli sudah melakukan pembayaran, dan/atau pihak TitipGo telah melakukan pemesanan produk ke supplier/marketplace di China. Selama pembayaran belum dilakukan dan pesanan belum diproses, pembatalan masih dapat diajukan."
+    },
+    {
+      "title": "5. Risiko & Tanggung Jawab",
+      "body": "**Barang mudah pecah/rusak:** TitipGo tidak menanggung kerugian atas kerusakan barang yang tergolong mudah pecah/rusak — ini merupakan risiko dari pembeli itu sendiri. Meski begitu, TitipGo akan menyampaikan ke supplier untuk packing lebih hati-hati untuk barang jenis ini.\n\n**Barang hilang/rusak dalam pengiriman (kapal):** TitipGo akan membantu proses klaim asuransi pengiriman. Rata-rata klaim menghasilkan refund penuh, namun pada beberapa kasus refund tidak penuh — TitipGo akan tetap berupaya semaksimal mungkin membantu proses klaimnya. Disarankan video unboxing saat barang diterima sebagai bukti jika diperlukan klaim.\n\nProduk kategori terlarang/dibatasi impor oleh regulasi Indonesia menjadi tanggung jawab pelanggan untuk memastikan legalitasnya sebelum memesan."
+    },
+    {
+      "title": "6. Waktu Pengiriman",
+      "body": "Estimasi waktu pengiriman bersifat perkiraan dan dapat berubah tergantung proses gudang, bea cukai, dan kondisi logistik."
+    },
+    {
+      "title": "7. Perubahan Ketentuan",
+      "body": "TitipGo berhak mengubah syarat & ketentuan ini sewaktu-waktu. Penggunaan layanan setelah perubahan dianggap sebagai persetujuan atas ketentuan yang diperbarui."
+    }
+  ],
+  "note": "Dengan melanjutkan checkout, kamu dianggap telah membaca dan menyetujui syarat & ketentuan di atas."
+}
